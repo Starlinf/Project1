@@ -18,7 +18,7 @@ Rough Breakdown of Task:
 2. Select Project Objective
 3. Create Proposal
 4. Create Repository
-5. Data Gathering and Cleaning
+5. Data Gathering and Cleaning (EVE)
     * Use Pandas to clean and format your data set(s)
     * Create a Jupyter Notebook describing the data exploration and cleanup process
 6. Data Analysis and Graphics
