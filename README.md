@@ -5,8 +5,8 @@ Team Members:  Evelisa Flores, Felipe Starling, Keiyau Sin
 Project Descriptions: Our project is to understand how did COVID-19 affect consumer spending in the USA. We’ll be analyzing the consumer behavior to identify trends by industry, unemployment rates, payment methods and more.
 
 Hypothesis: 
-    * Ho - COVID-19 did have a negative impact on consumer spending?
-    * Ha - COVID-19 did not have a negative impact on consumer spending?
+1. Ho - COVID-19 did have a negative impact on consumer spending?
+2. Ha - COVID-19 did not have a negative impact on consumer spending?
 
 Research Questions to Answer:
 1. How consumer spending of different industries has changed and if certain industries were particularly hit hard by COVID-19?
