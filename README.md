@@ -9,7 +9,7 @@ Hypothesis: COVID-19 did have a negative impact on consumer spending.
 Research Questions to Answer:
 1. How consumer spending of different industries has changed and if certain industries were particularly hit hard by COVID-19?
 2. What is the relationship between unemployment rates cause by COVID-19 and consumer spending trends?
-3. Did the COVID-19 change consumers preferred method of payment?
+3. Is there a COVID-19 impact differential in credit/debit card spending between consumer income classes?
 
 Data Source: https://data.world/liz-friedman/opportunity-insights-economic-tracker/workspace/file?filename=Affinity-City-Daily.csv
 
