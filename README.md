@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project 1 Impact of Covid 19 on Consumer Spendings
 Team Members:  Evelisa Flores, Felipe Starling, Keiyau Sin
 
@@ -10,7 +10,7 @@ Hypothesis:
 
 Research Questions to Answer:
 1. How consumer spending of different industries has changed and if certain industries were particularly hit hard by COVID-19?
-2. What is the relationship between unemployment rates cause by COVID-19 and consumer spending trends?
+2. What is the relationship between unemployment insurance benefits claims and consumer spending trends since the onset of COVID-19 in the United States?
 3. Is there a COVID-19 impact differential in credit/debit card spending between consumer income classes?
 
 Data Source: https://data.world/liz-friedman/opportunity-insights-economic-tracker/workspace/file?filename=Affinity-City-Daily.csv
