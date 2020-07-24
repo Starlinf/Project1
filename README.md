@@ -14,6 +14,7 @@ Research Questions to Answer:
 3. Is there a COVID-19 impact differential in credit/debit card spending between consumer income classes?
 
 Data Source: 
+
     * https://data.world/liz-friedman/opportunity-insights-economic-tracker/workspace/file?filename=Affinity-City-Daily.csv
     * https://tracktherecovery.org/
     * https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf
