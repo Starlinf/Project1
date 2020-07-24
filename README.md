@@ -15,10 +15,10 @@ Research Questions to Answer:
 
 Data Source: 
 
-    * https://data.world/liz-friedman/opportunity-insights-economic-tracker/workspace/file?filename=Affinity-City-Daily.csv
-    * https://tracktherecovery.org/
-    * https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf
-    * https://www.cdc.gov/widgets/diseaseandconditions/data-maps.html
+https://data.world/liz-friedman/opportunity-insights-economic-tracker/workspace/file?filename=Affinity-City-Daily.csv
+https://tracktherecovery.org/
+https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf
+https://www.cdc.gov/widgets/diseaseandconditions/data-maps.html
 
 Breakdown of Task:
 1. Research Data
