@@ -1,5 +1,5 @@
 
-# Impact of Covid 19 on Consumer Spendings
+# Impact of COVID-19 on Consumer Spendings
 
 
 <img src="https://itab.com/imagevault/publishedmedia/a52tlidz2csk2ry4zqz9/wesley-tingey-DBu9IrkuPFM-unsplash.jpg" width="1000" height="500">
