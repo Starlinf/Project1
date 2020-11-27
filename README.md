@@ -1,5 +1,10 @@
 
 # Project 1 Impact of Covid 19 on Consumer Spendings
+
+
+<img src="https://itab.com/imagevault/publishedmedia/a52tlidz2csk2ry4zqz9/wesley-tingey-DBu9IrkuPFM-unsplash.jpg" width="1000" height="500">
+
+
 Team Members:  Evelisa Flores, Felipe Starling, Keiyau Sin
 
 Project Descriptions: Our project is to understand how did COVID-19 affect consumer spending in the USA. We’ll be analyzing the consumer behavior to identify trends by industry, unemployment rates and payment methods
